@@ -10,7 +10,7 @@ body {
    background-color: #c0c0c0;
 }
 
-h1 {
+.first_header {
   color: #ffffff;/*文字色*/
   padding: 0.5em 0;/*上下の余白*/
   border-top: solid 3px #ffffff;/*上線*/
