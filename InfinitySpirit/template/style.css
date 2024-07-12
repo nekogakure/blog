@@ -31,6 +31,18 @@ h3 {
   border-bottom: solid 3px #364e96;　/*下線*/
 }
 
+.article-title {
+  font-family: "Noto-Sans", Arial, Helvetica, sans-serif;
+  text-wrap: wrap;
+  width: 60vw;
+  margin-left: 5%;
+  margin-bottom: 5vh;
+  height: auto;
+  text-wrap: wrap;
+  font-size: 40px;
+  box-sizing: border-box;
+}
+
 header {
    padding: 30px auto 10px;
    position: fixed;
